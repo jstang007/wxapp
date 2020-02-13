@@ -1,0 +1,38 @@
+published:
+  - app:
+      category: life
+      application: weather
+      name: 天气
+      publish_date: 2019-09-01
+      url: /service/weather
+      desc: this is a weather app.
+  - app:
+      category: employment
+      application: fairs
+      name: 企业宣讲会
+      publish_date: 2019-10-07
+      url: /service/fairs
+      desc: this is a recruitment Information app
+  - app:
+      category: employment
+      application: money
+      name: 借贷
+      publish_date: 2019-12-22
+      url: /service/money
+      desc: this is a feature money app
+  - app:
+      category: life
+      application: SZaccount
+      name: 深户办理
+      publish_date: 2019-10-07
+      url: /service/SZaccount
+      desc: this is a recruitment Information app
+
+developing:
+  - app:
+      category: life
+      application: Handle account
+      name: 深户
+      publish_date: 2019-10-07
+      url: /service/SZaccount
+      desc: this is a recruitment Information app
